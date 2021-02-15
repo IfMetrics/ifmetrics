@@ -1,3 +1,5 @@
+![IfMetrics Responses](https://ifmetrics.com/images/ifmetrics-responses.png)
+
 ## IfMetrics monitor your Unix system with all running processes. When we find an error our state-of-art AI will automagically fix it.
 Always know what's happening with your servers.
 
